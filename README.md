@@ -1,9 +1,1 @@
-# Hola-Mundo1
-
-mi primer repositorio en Git
-
-i love :icecream:, :pizza:, :dog:
-
-i love :shark:, :stars:, :books:
-
-i hate :ship:, :spaghetti:, :bug:
+Mi nombres es Rosales Carla.Estoy en mi último año de la tecnicatura de programación siendo capacitada para usar lenguajes de programación como Java, Javascript, python, html así como tambien frameworks, bases de datos y diferentes herramientas.
